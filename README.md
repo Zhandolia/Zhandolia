@@ -3,7 +3,7 @@
 
 - 🎓 **Boston University**
 
-- 📫 Reach me at **zhandosbrown@gmail.com**
+- 📫 Reach me at **zhandos@bu.edu**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
