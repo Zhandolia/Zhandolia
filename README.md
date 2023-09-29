@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 You can call me Zhan.</h1>
+<h1 align="center">Hi 👋 I'm Zhan.</h1>
 <h3 align="center">I practice Full Stack iOS / Web dev full-time.</h3>
 
 - 🎓 **Boston University**
