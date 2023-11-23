@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Zhandos.</h1>
 <h3 align="center">I practice full stack iOS / web dev full time.</h3>
 
-- 🎓 **Comp Sci @ Boston University**
+- 🎓 **CS @ Boston University**
 
 - 📫 Reach me at **zhandos@bu.edu**
 </p>
