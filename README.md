@@ -3,13 +3,9 @@
 
 - 👨‍💻 Portfolio website [zhandosbrown.vercel.app](zhandosbrown.vercel.app)
 
-- 📫 How to reach me **zhandos@bu.edu**
+- 📫 React me at **zhandos@bu.edu**
 
 - ⚡ **I eat horse meat daily.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
