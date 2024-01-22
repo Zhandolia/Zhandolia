@@ -3,7 +3,7 @@
 
 - 👨‍💻 Portfolio website [zhandosbrown.vercel.app](zhandosbrown.vercel.app)
 
-- 📫 React me at **zhandos@bu.edu**
+- 📫 Reach me at **zhandos@bu.edu**
 
 - ⚡ **I eat horse meat daily.**
 
