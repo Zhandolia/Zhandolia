@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀  **Portfolio**: https://zhandosbrown.vercel.app/</p>
+<p align="left">🚀 Portfolio: https://zhandosbrown.vercel.app/</p>
 
 ###
 
