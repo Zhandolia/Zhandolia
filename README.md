@@ -12,10 +12,7 @@
 
 ###
 
-<p align="left">
-    Portfolio: <a href="https://zhandosbrown.vercel.app" target="_blank">zhandosbrown.vercel.app</a><br><br>
-    Feel free to contact me at <a href="mailto:zhandos@bu.edu">zhandos@bu.edu</a> or via <a href="https://www.linkedin.com/in/zhanbrown/" target="_blank">Linkedin</a>.
-</p>
+<p align="left">Portfolio: zhandosbrown.vercel.app<br><br>Feel free to contact me at zhandos@bu.edu or via Linkedin.</p>
 
 ###
 
@@ -40,10 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
