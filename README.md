@@ -1,8 +1,14 @@
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/originals/de/3c/fd/de3cfdd6fa1479b48e8ce92e44a565f4.gif"  />
+</div>
+
+###
+
 <h2 align="center">Hi 👋 I'm Zhandos</h2>
 
 ###
 
-<p align="left">🚀 Portfolio: https://zhandosbrown.vercel.app/</p>
+<p align="left">🚀  Portfolio: zhandosbrown.vercel.app</p>
 
 ###
 
