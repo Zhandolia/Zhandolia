@@ -14,7 +14,7 @@
 
 <p align="left">
     Portfolio: <a href="https://zhandosbrown.vercel.app">zhandosbrown.vercel.app</a><br><br>
-    Feel free to contact me at <a href="mailto:zhandos@bu.edu">zhandos@bu.edu</a> or via <a href="https://www.linkedin.com/in/zhanbrown/">Linkedin</a>.
+    Feel free to contact me at <a href="mailto:zhandos@bu.edu">zhandos@bu.edu</a> or via <a href="https://www.linkedin.com/in/zhanbrown/">LinkedIn</a>.
 </p>
 
 ###
