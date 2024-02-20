@@ -22,10 +22,10 @@
 
 ###
 
-<p align="left">
-    Portfolio: <a href="https://zhandosbrown.vercel.app">zhandosbrown.vercel.app</a><br><br>
-    Feel free to contact me at <a href="mailto:zhandos@bu.edu">zhandos@bu.edu</a> or via <a href="https://www.linkedin.com/in/zhanbrown/">LinkedIn</a>.
-</p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Zhandolia&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhandolia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -35,7 +35,10 @@
 
 ###
 
-<p align="left">Portfolio: zhandosbrown.vercel.app<br><br>Feel free to contact me at zhandos@bu.edu or via Linkedin.</p>
+<p align="left">
+    Portfolio: <a href="https://zhandosbrown.vercel.app">zhandosbrown.vercel.app</a><br><br>
+    Feel free to contact me at <a href="mailto:zhandos@bu.edu">zhandos@bu.edu</a> or via <a href="https://www.linkedin.com/in/zhanbrown/">LinkedIn</a>.
+</p>
 
 ###
 
