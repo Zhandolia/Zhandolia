@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Hi 👋 I'm Zhandos</h2>
+<h2 align="center">Hi 👋 I'm Zhandos 🇰🇿 I practice full-stack Web / iOS dev full-time.</h2>
 
 ###
 
