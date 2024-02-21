@@ -18,9 +18,8 @@
 
 ###
 
-<h2 align="center">Hi 👋 I'm Zhandos 🇰🇿 I practice full-stack Web / iOS dev full-time.</h2>
-
-###
+<h2 align="center">Hi 👋 I'm Zhandos 🇰🇿</h2>
+<h4 align="center">I practice full-stack web / iOS dev full-time.</h4>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Zhandolia&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
