@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Hi 👋 I'm Zhandos 🇰🇿</h2> 
+<h2 align="center">Hi 👋 I'm Zhandos 🇰🇿</h2>      
 <h4 align="center">I practice full-stack Web / iOS dev full-time.</h4>
 
 <div align="left">
